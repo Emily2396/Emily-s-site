@@ -1,0 +1,171 @@
+
+.wel {
+    border-radius: 15px 50px 30px;
+    background: #caf7ef;
+    padding: 15px; 
+    width: 800px;
+    height: auto; 
+    text-align: center;
+    float: right;
+    }
+
+.nav {
+    background-color: rgba(65, 199, 110, 0.836);
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+}
+.nav a:hover {
+        background-color: rgb(144, 250, 144);
+        color: rgb(0, 0, 0);
+        box-sizing: border-box;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+* h1 {color: rgb(54, 7, 68);
+    font-family: 'Courier New', Courier, monospace;
+}
+* h2 {color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+* h3 {color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home{
+    background-image: url(images/ph1.jpg);
+    background-repeat: no-repeat;
+}
+img {
+    width: 20%;
+    height: auto;
+  }
+
+.con{ 
+    background-image: url(images/ph3.jpg);
+    background-repeat: repeat;
+}
+
+.me { background-color: rgba(218, 97, 255, 0.7);
+    margin: 50px;
+    padding: 30px;
+    border: 10px;
+    border-color: slateblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav1 {
+    background-color: rgba(238, 99, 243, 0.7);
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav1 a:hover {
+        background-color: rgb(197, 111, 255);
+        color: rgb(0, 0, 0);
+        box-sizing: border-box;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+.wel2 {
+    border-radius: 15px 50px 30px;
+    background: rgba(200, 104, 230, 0.99);
+    padding: 15px; 
+    width: 800px;
+    height: auto; 
+    text-align: center;
+    float: right;
+}
+
+.answer { background-color: rgba(116, 187, 248, 0.8);
+    margin: 50px;
+    padding: 50px;
+    border: 10px;
+    border-color: slateblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contact { background-color: rgba(85, 238, 98, 0.8);
+    margin: 50px;
+    padding: 50px;
+    border: 10px;
+    border-color: slateblue;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.page2, .page1, .page3 {
+    background-image: url(images/das.jpg);
+    background-repeat: repeat;
+}
+
+.page4 {
+    background-image: url(images/rose.jpg);
+    background-repeat: repeat;
+}
+
+.nav2 a:hover {
+    background-color: rgb(247, 144, 224);
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav2 {
+    background-color: rgba(252, 118, 118, 0.836);
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.welc {
+    border-radius: 15px 50px 30px;
+    background: #f37aa8;
+    padding: 15px; 
+    width: 800px;
+    height: auto; 
+    text-align: center;
+    float: right;
+    }
+
+.answer1 { background-color: rgba(250, 119, 174, 0.8);
+    margin: 50px;
+    padding: 50px;
+    border: 10px;
+    border-color: slateblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.welcon { 
+    border-radius: 15px 50px 30px;
+    background: #90f18c;
+    padding: 15px; 
+    width: 800px;
+    height: auto; 
+    text-align: center;
+    float: right;
+}
+
+.navc {
+    background-color: rgba(158, 243, 118, 0.87);
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navc a:hover {
+    background-color: rgb(92, 212, 37);
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list {
+    text-align: left;
+}
